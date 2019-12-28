@@ -15,7 +15,7 @@ int main()
     bool sorted = false;
     int tmp;
 
-    myFile.open("input2.txt");
+    myFile.open("randomRepeat.txt");
 
 
     while (myFile >> data)
